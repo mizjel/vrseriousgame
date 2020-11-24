@@ -1,0 +1,9 @@
+{
+  "stages": [
+    {
+      "enteredStageVoice" : "Alle hints in 1 mp3 file, speelt langzaam af..",
+      "completedStageVoice" : "Stage compleet stem",
+      "hintNextStageVoice" : "Verkeerde stage aangeklikt waar nog niet aan begonnen kan worden"
+    }
+  ]
+}

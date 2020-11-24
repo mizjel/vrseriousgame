@@ -1,0 +1,16 @@
+{
+    "pictures": [
+        {
+            "title": "Tor browser opstarten",
+            "sprite" : "TorPuzzlePicture"
+        },
+        {
+            "title": "Persoonsgegevens uploaden",
+            "sprite" : "FolderPuzzlePicture"
+        },
+        {
+            "title": "Bitcoin betalen",
+            "sprite" : "BitcoinPuzzlePicture"         
+        }        
+    ]
+}
